@@ -117,7 +117,7 @@ CUSTOM  Applyed
 {transition: 1s ease !important;}
 .sticky {
   position: fixed;
-  top: 0;left: 10%;z-index: 100;
+  top: 0;left: 0%;z-index: 100;
   width: 100%;
   color: red !important;
   z-index: 10000;
